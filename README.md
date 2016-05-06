@@ -1,6 +1,7 @@
 # loginsimple
 A very simple login system implemented in PHP and MySql database.
 The code is very **simple** and **highly commented**.
+- requirements: PHP 5 or above is a must!
 
 ### motivation behind project
 - learn database connection
